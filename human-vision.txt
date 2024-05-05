@@ -1,0 +1,7 @@
+
+
+perception of color : renk algisi
+insan gozunde 3 fotoreseptor, sensor
+vardir bu yuzden her cisim 3 boyutlu rgb gozukur
+insan gozu de makinler gibi 3 boyutlu gorur
+hayvanlardaki fotoreseptor sayisi farkli olabilir 16, 2, 3
